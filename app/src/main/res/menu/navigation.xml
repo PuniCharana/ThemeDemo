@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_discover"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="Discover" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/navigation_artists"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Artist" />
+
+    <item
+        android:id="@+id/navigation_my_music"
+        android:icon="@drawable/ic_menu_share"
+        android:title="Music" />
+
+</menu>
