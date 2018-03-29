@@ -50,3 +50,8 @@
 
 </resources>
 ```
+
+<img src="https://raw.githubusercontent.com/PuniCharana/ThemeDemo/master/images/solution_scrolling.png" alt="Theme Demo" width="300px">
+
+
+<img src="https://raw.githubusercontent.com/PuniCharana/ThemeDemo/master/images/solution_settings.png" alt="Theme Demo" width="300px">
